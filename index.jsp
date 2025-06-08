@@ -251,11 +251,11 @@ color: rgb(61, 9, 118);
 <body>
  <button id="scrollToTopBtn"><i class="fa-sharp fa-solid fa-arrow-up"></i></button>
     <video class="landing-video" autoplay loop muted>
-        <source src="./images/video.mp4" type="video/mp4">
+        <source src="./src/main/webapp/images/video.mp4" type="video/mp4">
     </video>
     <section class="Header">
         <div class="logo">
-            <img src="./images/logo.png" id="#home" alt="logo">
+            <img src="./src/main/webapp/images/logo.png" id="#home" alt="logo">
         </div>
         <div class="parent">
             <a href="#home">Home</a>
@@ -276,32 +276,32 @@ color: rgb(61, 9, 118);
         <h1>We<span style="color: red;">Arrange</span></h1>
         <div class="box-container">
             <div class="box">
-                <img src="./images/corpo.jpg" alt="">
+                <img src="./src/main/webapp/images/corpo.jpg" alt="">
                 <h3>CORPORATE EVENT</h3>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
             <div class="box">
-                <img src="./images/birthday.jpg" alt="">
+                <img src="./src/main/webapp/images/birthday.jpg" alt="">
                 <h3>BIRTHDAY EVENT</h3>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
             <div class="box">
-                <img src="./images/wedding.jpg" alt="">
+                <img src="./src/main/webapp/images/wedding.jpg" alt="">
                 <h3>WEDDING EVENT</h3>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
             <div class="box">
-                <img src="./images/decor.jpg" alt="">
+                <img src="./src/main/webapp/images/decor.jpg" alt="">
                 <h3>DECOR</h3>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
             <div class="box">
-                <img src="./images/pv.jpg" alt="">
+                <img src="./src/main/webapp/images/pv.jpg" alt="">
                 <h3>PHOTOGRAPHY & VIDEO</h3>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
             <div class="box">
-                <img src="./images/enterain.jpg" alt="">
+                <img src="./src/main/webapp/images/enterain.jpg" alt="">
                 <h3>CONCERT</h3>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
